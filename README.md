@@ -7,7 +7,7 @@ Implemented a Tkinter functionality system where customer review the food they h
 -  SQLite
 -  NLTK (Natural Language Toolkit) 
 
-# SETUP
+# Setup
 
 1) Clone the repository:
    git clone https://github.com/yourusername/Restaurant-Review-using-NLP-and-SQLite.git
@@ -17,3 +17,16 @@ Implemented a Tkinter functionality system where customer review the food they h
 
 3) Run the Application:
    python check_run this code_final.py
+
+# Usage
+   - Open the application and navigate to the review section.
+   - Customers can enter their reviews and submit them.
+   - The system will analyze the reviews using NLP models and update the owner's dashboard with daily results.
+
+
+# Contributors
+   - SARTH PATEL UI21CS54
+   - SUSHANT MATNANI UI21CS77
+
+   
+
