@@ -18,15 +18,15 @@ Implemented a Tkinter functionality system where customer review the food they h
 3) Run the Application:
    python check_run this code_final.py
 
+   -- now run on local server, deploy the model on streamlit for better insights
+   streamlit run app2.py
+
 # Usage
    - Open the application and navigate to the review section.
    - Customers can enter their reviews and submit them.
    - The system will analyze the reviews using NLP models and update the owner's dashboard with daily results.
 
 
-# Contributors
-   - SARTH PATEL UI21CS54
-   - SUSHANT MATNANI UI21CS77
 
    
 
