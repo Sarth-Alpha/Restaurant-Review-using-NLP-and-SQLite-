@@ -10,7 +10,7 @@ Implemented a Tkinter functionality system where customer review the food they h
 # Setup
 
 1) Clone the repository:
-   git clone https://github.com/yourusername/Restaurant-Review-using-NLP-and-SQLite.git
+   git clone https://github.com/Sarth-Alpha/Restaurant-Review-using-NLP-and-SQLite-
    
 2) Install the dependencies:
    pip install tkinter nltk
