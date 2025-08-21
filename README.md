@@ -18,7 +18,7 @@ Implemented a Tkinter functionality system where customer review the food they h
 3) Run the Application:
    python check_run this code_final.py
 
-   -- now run on local server, deploy the model on streamlit for better insights
+   -- now run on local server, just now deploy the model on streamlit for better insights
    streamlit run app2.py
 
 # Usage
